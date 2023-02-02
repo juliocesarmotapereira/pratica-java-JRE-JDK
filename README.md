@@ -17,3 +17,6 @@ Material de estudos práticos do Programa ONE da Oracle
 * Diretórios referentes a JRE (onde se encontra a virtual machine) e JDK (onde está o compilador)
 * Connfiguração javac: Painel de Controle, Sistema, Configurações avançadas do sistema, Variáveis de Ambiente, Path, Editar, Colar o diretório C:\Program Files\Java\jdk1.8.0_361\bin
 * Configuração Java no VSCode: instalação de Fonte Fira Code, @ext:vscjava.vscode-java-debug - specified console: internalConsole
+
+* Pesquisas: netbeans, intellij, eclipse (instalação do eclipse)
+* Configuração de caminho Eclipse: eclipse version 1.8.0_361 of the jvm is not suitable for this product. version: 17 or great is required.
