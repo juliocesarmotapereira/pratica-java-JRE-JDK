@@ -20,3 +20,7 @@ Material de estudos práticos do Programa ONE da Oracle
 
 * Pesquisas: netbeans, intellij, eclipse (instalação do eclipse)
 * Configuração de caminho Eclipse: eclipse version 1.8.0_361 of the jvm is not suitable for this product. version: 17 or great is required.
+
+* Java: tipagem estática
+
+* System.out.println(.1 + .2); https://0.30000000000000004.com/
