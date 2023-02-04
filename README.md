@@ -24,3 +24,9 @@ Material de estudos práticos do Programa ONE da Oracle
 * Java: tipagem estática
 
 * System.out.println(.1 + .2); https://0.30000000000000004.com/
+
+* Java: O conceito e como declarar char e String, concatenar Strings, variáveis guardam valores e não referências.
+* Dica no Eclipse: digitar "sysout" e "Ctrl + barra de espaço" para autocompletar o System.out.println();
+* Java: utilizaremos o operador ou, || , não existe or ou and como palavras chave.
+
+
