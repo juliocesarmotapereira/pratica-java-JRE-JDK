@@ -21,12 +21,14 @@ Material de estudos práticos do Programa ONE da Oracle
 * Pesquisas: netbeans, intellij, eclipse (instalação do eclipse)
 * Configuração de caminho Eclipse: eclipse version 1.8.0_361 of the jvm is not suitable for this product. version: 17 or great is required.
 
-* Java: tipagem estática
-
 * System.out.println(.1 + .2); https://0.30000000000000004.com/
 
-* Java: O conceito e como declarar char e String, concatenar Strings, variáveis guardam valores e não referências.
-* Dica no Eclipse: digitar "sysout" e "Ctrl + barra de espaço" para autocompletar o System.out.println();
-* Java: utilizaremos o operador ou, || , não existe or ou and como palavras chave.
+* Java: tipagem estática
+* Java: o conceito e como declarar char e String, concatenar Strings, variáveis guardam valores e não referências.
+* Java: operações lógicas AND (&&) e OR (||)
+* Java: como usar o if
+* Java: sintaxe do while e for, operador +=, operador ++, laços aninhados, funcionalidade do break.
 
-
+* Alhos no Eclipse: main + ctrl + espaço - para gerar o método main
+* Alhos no Eclipse: ctrl + shift + f - para formatar o código fonte
+* Alhos no Eclipse: sysout + ctrl + espaço - para gerar a instrução System.out.println()
